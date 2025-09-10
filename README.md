@@ -1,7 +1,7 @@
 # Questionnaire Page
 
 
-**Description**
+**Description**  
 A static questionnaire page that groups multiple questions into sections, styled with CSS for readability. Built to practice layout and form element usage.
 
 
@@ -15,5 +15,5 @@ A static questionnaire page that groups multiple questions into sections, styled
 - Variety of input types (radio, checkbox, textareas)
 - Clean visual hierarchy and spacing
 
-**How to run**
+**How to run**  
 Open `Questionnaire.html` in a browser or serve it using a simple HTTP server:
